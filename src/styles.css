@@ -1,1 +1,40 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* add css file import path relative to node_modules folder */
+@import 'bulma/css/bulma.css';
+/* or Bulma Community Edition CSS File */
+/* @import 'font-awesome/css/font-awesome.css'; */
+/* font awesome icons */
+/* @import 'googleapis.com/icon?family=Material+Icons'; */
+/* google material icons */
+
+/* Explore other paths outside the angular project
+(../.. for example), of global scss variables*/
+/* @import '../../node_modules/bootstrap/dist/css/bootstrap.min.css'; */
+/* @import '../../node_modules/font-awesome/css/font-awesome.min.css'; */
+/* @import 'googleapis.com/icon?family=Material+Icons'; */
+
+/* some examples */
+/* @import './node_modules/bootstrap/dist/css/bootstrap.min.css';
+@import './node_modules/font-awesome/css/font-awesome.min.css';
+@import 'googleapis.com/icon?family=Material+Icons'; */
+/*<commit_msg>style.scss<commit_after>/* You can add global styles to this file, and also import other style files */
+
+/* add css file import path relative to node_modules folder */
+/* @import 'bulma/css/bulma.css'; /* or Bulma Community Edition CSS File */
+/* @import 'font-awesome/css/font-awesome.css'; /* font awesome icons */
+/* @import 'googleapis.com/icon?family=Material+Icons'; /* google material icons */
+
+/* Explore other paths outside the angular project
+(../.. for example), of global scss variables*/
+
+/* example of scss variables */
+/* $fa-font-path: '../node_modules/font-awesome/fonts'; */
+/* @import '../../node_modules/bootstrap/dist/css/bootstrap.min.css'; */
+/* @import '../../node_modules/font-awesome/css/font-awesome.min.css'; */
+/* @import 'googleapis.com/icon?family=Material+Icons'; */
+
+/* some examples */
+/* @import './node_modules/bootstrap/dist/css/bootstrap.min.css';
+@import './node_modules/font-awesome/css/font-awesome.min.css';
+@import 'googleapis.com/icon?family=Material+Icons'; */
