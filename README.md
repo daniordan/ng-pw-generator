@@ -1,5 +1,7 @@
 # Pw-generator Angular App
 
+Simple one-page design that features a random password generator.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
 ## Prerequisites
